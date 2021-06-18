@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MTraceDemo</string>
+    <string name="tips">本demo默认在Application中初始化，并开始收集，该页面可以点击停止收集，数据保存在trace.db中</string>
+    <string name="btn_sub_thread">执行子线程耗时</string>
+    <string name="btn_function">执行一般方法耗时</string>
+    <string name="btn_stop_collect">停止收集</string>
+    <string name="btn_restart_collect">重新开始收集</string>
+</resources>
